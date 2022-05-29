@@ -1,0 +1,15 @@
+C:\Derslerim\Switch-Case\bin\Debug\net6.0\Switch-Case.exe
+C:\Derslerim\Switch-Case\bin\Debug\net6.0\Switch-Case.deps.json
+C:\Derslerim\Switch-Case\bin\Debug\net6.0\Switch-Case.runtimeconfig.json
+C:\Derslerim\Switch-Case\bin\Debug\net6.0\Switch-Case.dll
+C:\Derslerim\Switch-Case\bin\Debug\net6.0\Switch-Case.pdb
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.AssemblyReference.cache
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfoInputs.cache
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.AssemblyInfo.cs
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.dll
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\refint\Switch-Case.dll
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.pdb
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\Switch-Case.genruntimeconfig.cache
+C:\Derslerim\Switch-Case\obj\Debug\net6.0\ref\Switch-Case.dll
